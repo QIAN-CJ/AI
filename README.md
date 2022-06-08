@@ -11,7 +11,11 @@ python train.py
 运行成功则会输出训练进度，训练完成后在输出目录（默认./output）下能看到生成的图片，默认每个 epoch 保存一次生成的图片。  
 示例：  
 内容图片  
+
 ![image](https://github.com/QIAN-CJ/AI/blob/main/samples/dog.jpg)  
-风格图片  
+风格图片
+
 ![image](https://github.com/QIAN-CJ/AI/blob/main/samples/style.jpg)  
-生成图片  
+生成图片
+
+![image](https://github.com/QIAN-CJ/AI/blob/main/samples/dog_gen.jpg)
